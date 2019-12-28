@@ -1,7 +1,5 @@
-#navbar navbar-expand-md
-                    justify-content-start
-                    bg-dark navbar-dark
-                    col-12{
+#nav_menu{
+                   
    background: black;
 }
 body {
