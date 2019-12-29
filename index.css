@@ -53,6 +53,12 @@ body {
     background: #646464;
     border-color: #646464;
 }
+
+.btn-primary:active{
+    background:#313131;
+    border-color: #313131;
+}
+
 /* Float four columns side by side */
 .column {
     float: left;
